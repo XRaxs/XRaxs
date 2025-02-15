@@ -26,13 +26,6 @@ Currently learning **Laravel** & **React.js** to build awesome web applications.
 </a>
 </p>
 
---
-
-### 🌱 Currently Learning:
-- 🛠️ Laravel & React.js for web development  
-- 🕵️ Ethical Hacking & Cybersecurity tools  
-- 📈 Investing to reach **Rp50 Juta in 5 years**  
-
 ---
 
 ### 📫 Connect with me:
